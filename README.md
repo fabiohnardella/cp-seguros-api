@@ -34,7 +34,7 @@ Aguarde alguns segundos para o MySQL inicializar antes de rodar a aplicação.
 1. **Clone o repositório:**
    ```bash
    git clone https://github.com/fabiohnardella/cp-seguros-api
-   cd cp-jogos-api
+   cd cp-seguros-api
    ```
 
 2. **Suba o banco de dados:**
